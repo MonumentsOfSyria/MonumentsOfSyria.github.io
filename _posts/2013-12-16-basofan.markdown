@@ -1,0 +1,28 @@
+---
+author: ross
+comments: false
+date: 2013-12-16 00:22:08+00:00
+layout: post
+link: http://monumentsofsyria.com/places/basofan/
+slug: basofan
+title: Basofan باصوفان
+wordpress_id: 2324
+categories:
+- Places
+post_format:
+- Gallery
+---
+
+This small site east of the great Church of St Simeon includes the considerably ruined Church of St Phocas (491–492), once one of the largest in the Jebel Semaan area of the northern Limestone Massif. The church. probably constructed not long after St Simeon's Church as it imitates some aspects of its style, was turned into a Muslim fortified position during the Crusader period with the construction of a tower attached to the eastern apse. The nave itself became the courtyard of the small fort.
+
+
+موقع صغير إلى الشرق من كاتدرائية القديس سمعان، يضم كنيسة القديس فوكاس (491 – 492 م)**،** وهي حالياً متهدمة بالكامل تقريباً بعد أن كانت واحدة من أضخم كنائس منطقة جبل سمعان في المدن المنسية في الكتلة الكلسية الشمالية. أنشأت الكنيسة على الأغلب بعد كنيسة القديس سمعان مباشرة إذ أنها بنيت بنفس الطراز وتماثلها في الكثير من التفاصيل المعمارية**،** وقد حولت فيما بعد أثناء الحروب الصليبية إلى حصن إسلامي وأضيف إليها برج ملاصق للحنية الشرقية، بينما الجناح الرئيسي (الصالة) أصبح باحة للحصن الصغير.
+
+
+
+
+[shareprints gallery_id="6734" gallery_type="squares" gallery_position="pos_center" gallery_width="width_100" image_size="medium" image_padding="5" theme="dark" image_hover="false" lightbox_type="slide" titles="true" captions="true" descriptions="true" comments="true" sharing="true"]Location map —
+
+[![Basofan location](http://monumentsofsyria.com/wp/wp-content/uploads/Basofan-location2-150x150.png)](http://monumentsofsyria.com/wp/wp-content/uploads/Basofan-location2.png)
+
+

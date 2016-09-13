@@ -1,0 +1,29 @@
+---
+author: ross
+comments: false
+date: 2013-12-15 23:30:05+00:00
+layout: post
+link: http://monumentsofsyria.com/places/bamuqqa/
+slug: bamuqqa
+title: Bamuqqa باموقا
+wordpress_id: 2297
+categories:
+- Places
+tags:
+- Bamuqqa
+- Byzantine
+- Jebel Barisha
+- Limestone Massif
+- Roman
+- Syria
+---
+
+A small village looking north across the pass leading west to the Plain of Amuq and on to Antioch. House remains possibly date to the first century AD but the church was not constructed until the late sixth or early seventh century.
+
+
+قرية صغيرة تطل على الشمال وتقطع الطريق المؤدية غرباً إلى سهل العمق وصولاً إلى أنطاكية. تضم بقايا سكنية ربما تعود إلى القرن الأول الميلادي غير أن الكنيسة لم تبن حتى أواخر القرن السادس أو بدايات القرن السابع.
+
+
+
+
+[gallery ids="2303,2304,2305"]

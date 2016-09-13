@@ -1,0 +1,38 @@
+---
+author: ross
+comments: false
+date: 2013-12-16 01:17:04+00:00
+layout: post
+link: http://monumentsofsyria.com/places/behyo/
+slug: behyo
+title: Behyo بحيو
+wordpress_id: 2337
+categories:
+- Places
+post_format:
+- Gallery
+---
+
+The deserted Byzantine site of Behyo in the Jebel al-`Ala includes two late churches on the western edge of the village. The smaller example (the 'East Church') uses transverse sweeping arches in the style of Qalb Lhozeh. The 'West Church', seen here in de Vogue's reconstructions, is more conventionally divided by two rows of five columns and has a bema in the central aisle (not depicted on plate 137).
+
+
+يضم الموقع البيزنطي المهجور في بحيو في جبل العلا كنيستين من العصر البيزنطي المتأخر تقعان على الأطراف الغربية للقرية. بنيت أسقف الكنيسة الصغرى (الشرقية) بطريقة الأقواس الممتدة المستعرضة كما هو في كنيسة قلب لوزة. بينما الكنيسة الغربية**،** كما يوضحها مخطط إعادة التخيل الذي أعده فوغ**،** مقسمة على الطريقة التقليدية بواسطة صفين من الأقواس في كل منه خمس أعمدة، ومزودة ببيما (منبر) في الجناح الوسطي (غير مرسوم في اللوحة 137).
+
+
+ [shareprints gallery_id="6737" gallery_type="squares" gallery_position="pos_left" gallery_width="width_100" image_size="medium" image_padding="5" theme="dark" image_hover="false" lightbox_type="slide" titles="true" captions="true" descriptions="true" comments="true" sharing="true"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+---
+author: ross
+comments: false
+date: 2012-08-12 23:38:44+00:00
+layout: post
+link: http://monumentsofsyria.com/places/1886/
+slug: '1886'
+title: Qalaat al-Khawabi قلعة الخوابي
+wordpress_id: 1886
+categories:
+- Places
+post_format:
+- Gallery
+tags:
+- castle
+- Ismaeli
+- Khawabi
+- Rashid al-Din Sinan
+---
+
+The Ismaeli castle at Qalaat al-Khawabi lies approximately 20 kms northeast of Tartus in the Syrian coastal mountains. One of the Ismaeli strongholds of the Crusader period, the castle was re-fortified by Rashid al-Din Sinan, the Ismaeli leader, after 1160. The castle surrendered  to the Mamluks under Baybars in 1273. The castle hosted a village community settled by latter-day Ismaeli followers in the nineteenth century and remained one of the few castle sites still housing a village until recent years. The site is examined briefly on page 230 of _Monuments of Syria_ (third edition, I B Tauris, London 2009).
+
+
+تقع على بعد حوالي 20 كم شمال شرق طرطوس في الجبال الساحلية السورية، وهي إحدى معاقل الإسماعيليين في فترة الحروب الصليبية، جددت القلعة بعد عام 1160 في عهد القائد الإسماعيلي سنان راشد الدين، وقد سلمت للمماليك في عهد القائد بيبرس عام 1273. سكنت القلعة ومحيطها من قبل أتباع الطائفة الإسماعيلية منذ القرن التاسع عشر وما تزال واحدة من القلاع المسكونة حتى هذه الأيام.
+
+
+
+
+هناك دراسة مختصرة عن الموقع في كتاب أوابد سورية، ص 230.
+
+
+[gallery link="file" columns="4" ids="1980,1902,1901,1898,1899,1900"]

@@ -1,0 +1,40 @@
+---
+author: ross
+comments: false
+date: 2011-12-05 13:00:20+00:00
+layout: post
+link: http://monumentsofsyria.com/places/sanamein-2/
+slug: sanamein-2
+title: Sanamein الصنمين
+wordpress_id: 635
+categories:
+- Places
+post_format:
+- Gallery
+tags:
+- Aere
+- Hauran
+- Roman temple
+- Sanamein
+---
+
+This curious ancient temple survives in the middle of a small town in the Hauran region of southern Syria.
+
+
+ما زالت هذه البلدة الصغيرة الواقعة في سهل حوران جنوب سورية، تحتفظ ببقايا معبد من العصر الروماني.
+
+
+Flickr site —
+
+
+لمزيد من الصور يمكن العودة للموقع:
+
+
+
+
+[http://www.flickr.com/photos/monsyr/sets/72157628281544997/](http://www.flickr.com/photos/monsyr/sets/72157628281544997/).
+
+
+
+
+[gallery link="file" ids="691,692,693,694,695,696,634" orderby="title"]

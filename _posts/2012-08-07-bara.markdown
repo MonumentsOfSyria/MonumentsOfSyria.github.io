@@ -1,0 +1,36 @@
+---
+author: ross
+comments: false
+date: 2012-08-07 07:35:49+00:00
+layout: post
+link: http://monumentsofsyria.com/places/bara/
+slug: bara
+title: Bara (al-Bara البارة )
+wordpress_id: 1560
+categories:
+- Places
+post_format:
+- Gallery
+tags:
+- andron
+- Bara
+- Byzantine
+- church
+- Dead Cities
+- Jebel Zawiya
+- Kapropera
+- Limestone Massif
+---
+
+The ruins of the Byzantine town of Bara are some of the most extensive in the Limestone Massif west of Aleppo in northern Syria. Over five churches, tombs with striking pyramid-shaped roofs, at least one monastery and a donjon originating from the Crusader period dot the landscape.
+
+
+تعتبر بقايا البلدة البيزنطية في البارة واحدة من أضخم أبنية الكتلة الكلسية (المدن المنسية) الواقعة غرب حلب في شمال سورية، هناك أكثر من خمس كنائس**،** وعدة مدافن بأسقف هرمية رائعة**،** وعلى الأقل دير وحصن من فترة الحروب الصليبية.. تنتشر تلك المعالم في ربوع طبيعة خلابة تشكل فيما بينها منظراً  متكاملاً.
+
+
+
+[shareprints gallery_id="6717" gallery_type="squares" gallery_position="pos_left" gallery_width="width_100" image_size="small" image_padding="5" theme="dark" image_hover="false" lightbox_type="slide" titles="true" captions="true" descriptions="true" comments="true" sharing="true"] 
+
+
+
+

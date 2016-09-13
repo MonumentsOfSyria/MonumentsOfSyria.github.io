@@ -1,0 +1,40 @@
+---
+author: aileen
+comments: false
+date: 2011-11-24 21:16:53+00:00
+layout: post
+link: http://monumentsofsyria.com/places/barad/
+slug: barad
+title: Barad براد
+wordpress_id: 108
+categories:
+- Places
+post_format:
+- Gallery
+tags:
+- Barad
+- Barade
+- Brad
+- Byzantine
+- church
+- Kaprobarada
+- monastery
+---
+
+Until recently difficult to reach by vehicle, this interesting and extensive site on the northern reaches of the Mountain of Simeon (Jebel Semaan) is now accessible by sealed road.
+
+Barad includes a remarkable series of churches, monastic complexes and house remains as well as a a monumental tomb, probably of the second or third century AD, and a singular example of a bath complex.
+
+More details on pages 74–76 of _Monuments of Syria_ (I B Tauris, London, 2009)
+
+
+موقع ضخم ومثير للاهتمام يتوضع في القسم الشمالي من جبل سمعان، ما يزال الوصول إليه بواسطة السيارة مهمة شاقة إلى الآن**،** ويتم الوصول إليه حالياً بواسطة طريق معبد. تضم براد مجموعة من الكنائس المميزة**،** مجمعات للرهبان، وبقايا سكنية.. إضافة إلى مدفن صرحي ضخم يعود على الأغلب إلى القرن الثاني أو الثالث، وحمام يمثل نموذجاً فريداً من نوعه.
+
+
+
+
+لمزيد من التفاصيل، يمكن مراجعة كتاب (أوابد سورية) (ص 74-76).
+
+
+
+[shareprints gallery_id="6721" gallery_type="squares" gallery_position="pos_center" gallery_width="width_100" image_size="medium" image_padding="5" theme="dark" image_hover="false" lightbox_type="slide" titles="true" captions="true" descriptions="true" comments="true" sharing="true"]

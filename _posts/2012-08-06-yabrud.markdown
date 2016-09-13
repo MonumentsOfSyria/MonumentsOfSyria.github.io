@@ -1,0 +1,37 @@
+---
+author: ross
+comments: false
+date: 2012-08-06 01:44:53+00:00
+layout: post
+link: http://monumentsofsyria.com/places/yabrud/
+slug: yabrud
+title: Yabrud يبرود
+wordpress_id: 1531
+categories:
+- Places
+post_format:
+- Gallery
+tags:
+- Constantine
+- Helena
+- Iabroda
+- Jupiter
+- Roman temple
+- Yabroda
+- Yabrud
+---
+
+This small town on the eastern fringe of the Anti-Lebanon Range 80 kms north of Damascus is notable mainly for the remains of a Roman temple to Jupiter Iabrudis incorporated into the Byzantine church of Constantine and Helena. Emperor Constantine first legalised Christianity. His mother, Helena, followed up with the promotion of pilgrimage to the holy places associated with the life and death of Jesus.
+
+See _Monuments of Syria_ (third edition, I B Tauris, London, 2009) page 302.
+
+
+تقع هذه البلدة على الأطراف الشرقية لسلسلة جبال لبنان الشرقية، على بعد حوالي 80 كم شمال دمشق، وتشتهر بمعبدها من العصر الروماني المخصص للإله جوبيتر اليبرودي، الذي حول في العصر البيزنطي إلى كاتدرائية قسطنطين وهيلانة، وقسطنطين هو الإمبراطور البيزنطي الأول الذي سمح لأتباع الديانة المسيحية بممارسة عبادتهم بحرية، وأمه هيلانة هي التي سافرت (بحثاً عن الصليب المقدس) إلى الأراضي المقدسة التي عاش ومات فيها السيد المسيح، وكانت رحلتها تلك الحافز الأساسي لبقية الناس للحج إلى تلك المنطقة.
+
+
+
+
+لمزيد من المعلومات يمكن العودة لكتاب أوابد سورية ص 302.
+
+
+![](http://monumentsofsyria.com/nextgen-attach_to_post/preview/id--5449)
